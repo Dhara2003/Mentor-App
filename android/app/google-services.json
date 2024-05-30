@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "204413088361",
+    "project_id": "mentorship-trial",
+    "storage_bucket": "mentorship-trial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204413088361:android:ba415cd640519e1def28f8",
+        "android_client_info": {
+          "package_name": "com.cubedots.mentorshiptrial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3vw60W8EcahTgpoZbNClFgtyxjv0afq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
